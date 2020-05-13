@@ -1,7 +1,10 @@
 <?php
 
-// TODO: use namespace:
-// namespace Minifier;
+// example usage:
+//        $minifier = new TinyHtmlMinifier($options);
+//        return $minifier->minify($html);
+
+namespace jenstornell\tinyhtmlminifier;
 
 class TinyHtmlMinifier
 {
